@@ -1,0 +1,9 @@
+Package: com.yourname.autoclickerpro
+Name: Auto Clicker Pro
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An advanced auto clicker and macro recorder.
+Maintainer: Your Name
+Author: Your Name
+Section: Tweaks
